@@ -1,0 +1,2 @@
+# EE-559-Project
+This repository contains Final Project implementation for EE - 559 : Mathematical Pattern Recognition undertaken for Spring 2018 at USC. The project involved with working on a UCI dataset - Online News Popularity and applying different classifiers like KNN, SVM, Perceptron etc after preprocessing and comparing the results and finding the best classifier and result for this dataset.
